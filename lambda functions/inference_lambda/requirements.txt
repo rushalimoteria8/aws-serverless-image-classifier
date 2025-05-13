@@ -1,0 +1,4 @@
+onnxruntime
+boto3
+numpy<2
+Pillow
